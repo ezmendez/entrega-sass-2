@@ -1,0 +1,74 @@
+@import "../variables/variables" a;
+h1 {
+  background-color: #ec0ae1;
+  width: 100%; }
+
+footer, header {
+  background-color: #ec0ae1;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+footer, header {
+  background-color: #ec0ae1;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+footer, header {
+  display: flex;
+  justify-content: space-around; }
+
+footer, header {
+  background-color: #ec0ae1;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+header nav {
+  display: flex;
+  justify-content: space-around; }
+  header nav a {
+    text-decoration: none;
+    font-family: verdana; }
+
+footer, header {
+  background-color: #ec0ae1;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+section {
+  width: 100%; }
+  section p {
+    font-family: verdana;
+    line-height: 1,5;
+    font-style: italic;
+    text-align: center; }
+
+h2 {
+  background-color: #4285f4;
+  width: 80%; }
+
+:hover {
+  background-color: orange; }
+
+figure {
+  width: 25%;
+  margin: auto; }
+
+.fotos {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  font-size: larger; }
+
+body {
+  background-color: #530446; }
+
+.carousel-inner {
+  display: flex;
+  margin: auto;
+  padding: 25px;
+  width: 50%;
+  height: 50%; }
